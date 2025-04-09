@@ -6,7 +6,7 @@
 
 https://www.ibge.gov.br/geociencias/organizacao-do-territorio/malhas-territoriais/15774-malhas.html
 
-caminho_shapefile = r'D:\Usuários\Downloads\BR_Municipios_2023\BR_Municipios_2023.shp'
+caminho_shapefile = r'D:\Usuários\Downloads\BR_Municipios_2018\BR_Municipios_2018.shp'
 
 # ----------------------------------------------------------
 
