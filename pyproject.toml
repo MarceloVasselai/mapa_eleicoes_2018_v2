@@ -10,7 +10,9 @@ requires-python = ">=3.11"
 dependencies = [
     "pandas (>=2.2.3,<3.0.0)",
     "matplotlib (>=3.10.1,<4.0.0)",
-    "geopandas (>=1.0.1,<2.0.0)"
+    "geopandas (>=1.0.1,<2.0.0)",
+    "dask (>=2025.3.0,<2026.0.0)",
+    "pyarrow (>=19.0.1,<20.0.0)"
 ]
 
 
